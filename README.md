@@ -16,4 +16,4 @@ Gaussian Filter: As a filter specifically designed for Gaussian noise, it consis
 Conclusion
 The Gaussian Filter and the Median Filter are the most effective traditional methods for this noise type, as they consistently produce the best PSNR and SSIM scores, signifying the highest image quality and structural similarity to the original image after denoising.
 
-![images]()
+![images](https://github.com/Khan548-codes/Lab-7-Traditional-vs-AI-Gaussian-Filters-is-due/blob/main/images/Screenshot%202025-11-11%20192346.png)
